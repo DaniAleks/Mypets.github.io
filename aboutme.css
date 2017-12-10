@@ -1,0 +1,20 @@
+h1 {
+  font-style: italic;
+  text-align: center;
+  background-color: #FFDE9E
+}
+
+nav li {
+  display: inline-block;
+  font-size: 18px;
+  color: blue
+}
+
+body {
+  background-color: #FF894F
+}
+
+p {
+  font-style: italic;
+  font-family: "Merriweather";
+}
