@@ -1,0 +1,50 @@
+header {
+  color:white;
+  background-color: black;
+  text-align: center;
+  font-size: 36px;
+  font-family: "roboto";
+}
+
+body {
+  background-color: #FF4C4C;
+}
+
+nav li {
+  display: inline-block;
+  font-size: 18px;
+  list-style-type: none;
+  background-color: white;
+  padding: 3px;
+  border: 1px solid purple;
+}
+
+h1 {
+  font-size: 28px;
+  color: #FFEFBA;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  font-size: 19px;
+  color: #FFDBAE;
+  font-family: "Titillium Web";
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #FFC792;
+  display: block
+}
+
+#home {
+  margin-left: 40%;
+}
+
+#aboutme {
+  margin-left: 5%;
+}
