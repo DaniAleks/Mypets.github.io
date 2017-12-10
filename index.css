@@ -1,5 +1,5 @@
 header {
-  color:white;
+  color: white;
   background-color: black;
   text-align: center;
   font-size: 36px;
@@ -7,7 +7,7 @@ header {
 }
 
 body {
-  background-color: #FF4C4C;
+  background-color: #B53627;
 }
 
 nav li {
@@ -16,7 +16,8 @@ nav li {
   list-style-type: none;
   background-color: white;
   padding: 3px;
-  border: 1px solid purple;
+  font-family: 'Hind Madurai', sans-serif;
+  border: 1px solid black;
 }
 
 h1 {
@@ -24,6 +25,7 @@ h1 {
   color: #FFEFBA;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
@@ -32,19 +34,21 @@ p {
   font-family: "Titillium Web";
 }
 
-a{
+a {
   text-decoration: none;
+  color: #945140;
 }
 
 a:hover {
   background-color: #FFC792;
-  display: block
+  display: block;
 }
 
 #home {
-  margin-left: 40%;
+  margin-left: 34%;
+  color: #FFC792;
 }
 
 #aboutme {
-  margin-left: 5%;
+  margin-left: 0%;
 }
