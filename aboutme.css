@@ -7,7 +7,11 @@ h1 {
 nav li {
   display: inline-block;
   font-size: 18px;
-  color: blue
+  color: blue;
+  list-style-type: none;
+  background-color: white;
+  padding: 3px;
+  border: 1px solid black;
 }
 
 body {
@@ -17,4 +21,25 @@ body {
 p {
   font-style: italic;
   font-family: "Merriweather";
+  font-size: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: #871A16;
+}
+
+a:hover {
+  background-color: #FFC792;
+  display: block;
+}
+
+h2 {
+  text-align: center;
+  font-family:'Frank Ruhl Libre', serif;
+}
+img{
+  margin-left: 10%;
 }
